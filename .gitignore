@@ -1,0 +1,5 @@
+# FreeCAD backups
+*.FCStd1
+
+# OSX files
+.DS_Store
