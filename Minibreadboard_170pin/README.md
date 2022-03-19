@@ -2,7 +2,7 @@
 
 Placa de prototipado de 170 pines.
 
-![preview](Minibreadboard_170pin/Minibreadboard_170pin.png)
+![preview](Minibreadboard_170pin.png)
 
 ## LICENSE
 
